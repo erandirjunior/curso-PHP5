@@ -1,0 +1,4 @@
+*{margin: 0; padding: 0;}
+body{font-size: 20px;}
+#container{width: 600px; text-align: center;}
+#container label{display: block;}

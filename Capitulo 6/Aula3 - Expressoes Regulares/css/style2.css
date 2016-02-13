@@ -1,0 +1,4 @@
+*{margin: 0; padding: 0;}
+#container{width: 500px; margin: 0 auto; background-color: #ccc;}
+form{margin: auto auto auto 170px;}
+label{display: block;}

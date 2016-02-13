@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0;}
+body{font-size: 20px;}
+#container{width: 800px; margin: 0 auto;}
+table{width: 700px;}
+table td{text-align: center;}
+th{background-color: #000; color: #FFF;}
+#mensagem label{display: block;}
+#mensagem textarea{width: 400px; height: 100px;}
+#mensagem .input{width: 400; height: 25px; font-size: 16px;}
+.nao_respondido{background-color: #FFF;}
+.respondido{background-color: #4a8cdb;}

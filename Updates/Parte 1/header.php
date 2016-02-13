@@ -1,0 +1,11 @@
+  header("Pragma: public", true);
+  header("Cache-Control: must-revalidate, post-check=0, pre-check=0");
+  header("Expires: 0");
+  header("Content-Description: Baixar Arquivo");
+  header("Content-Type: application/force-download");
+  header("Content-Type: application/octet-stream");
+  header("Content-Type: application/download");
+  header("Content-Disposition: attachment; filename=".basename($dados_arquivo_cadastrado->arquivo_caminho));
+  header("Content-Transfer-Encoding: binary");
+  header('Content-Length: '.filesize($dados_arquivo_cadastrado->arquivo_caminho));
+  readfile($dados_arquivo_cadastrado->arquivo_caminho);

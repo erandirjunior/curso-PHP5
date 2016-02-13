@@ -1,0 +1,9 @@
+RewriteEngine ON
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^produtos$ produtos.html
+RewriteRule ^produtos/novos$ novos.html
+
+#RewriteRule ^(.*)$ index.php?p=$1

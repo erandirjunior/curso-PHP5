@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0;}
+#container{width: 800px; margin: auto;}
+table{width: 700px; border: 1px solid #333333; background-color: #CCCCCC; font-weight: lighter;
+font-family: "Trebuchet MS"; text-align: center;}
+table tr th{border: solid 1px #666666;}
+table tr td{border: solid 1px #666666;}
+td{text-align: center;}

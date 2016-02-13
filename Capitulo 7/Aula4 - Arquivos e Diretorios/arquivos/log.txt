@@ -1,0 +1,7 @@
+O administrador Junior, acessou o sistema na data 04/01/2016 17:00:39 com o IP ::1
+O administrador Junior, acessou o sistema na data 04/01/2016 17:02:27 com o IP ::1
+O administrador Junior, acessou o sistema na data 04/01/2016 17:02:48 com o IP ::1
+O administrador Erandir, acessou o sistema na data 04/01/2016 17:09:28 com o IP ::1
+O administrador Erandir, acessou o sistema na data 04/01/2016 17:10:19 com o IP ::1
+O administrador Junior, acessou o sistema na data 04/01/2016 17:12:04 com o IP ::1
+O administrador Erandir, acessou o sistema na data 04/01/2016 17:12:26 com o IP ::1
